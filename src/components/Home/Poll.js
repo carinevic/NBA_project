@@ -26,7 +26,7 @@ import { URL_TEAMS} from '../Utils/paths';
              },
              data:JSON.stringify({count: count + 1})
          }).then(() =>{
-             this.getPoll()
+             this.getPoll();
          })
 
      }

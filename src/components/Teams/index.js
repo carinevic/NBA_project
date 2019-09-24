@@ -31,7 +31,7 @@ import {
              classNames="fade"
              
              >
-                <Link to={`/team/${item.name}`}
+                <Link to={`/teams/${item.name}`}
                 className="team_item"
                 
                 >
@@ -43,6 +43,26 @@ import {
          ))
 
      )
+     searchTerm = (event) =>{
+         const keyword = event.target.value;
+         if(keyword !== ''){
+             const list = this.state.teams.filter(item => {
+                 return item.name.toLowerCase().indexOf(keyword.toLowerCase()) > -1
+             });
+             this.setState({
+                 filtered: list,
+                 keyword
+             })
+
+         }else{
+             this.setState({
+                 filtered: this.state.teams,
+                 keyword
+             })
+
+         }
+
+     }
     render() {
         return (
             <div className="teams_component">
@@ -50,6 +70,7 @@ import {
                     <input
                     type="text"
                     value={this.state.keyword}
+                    onChange={e => this.searchTerm(e)}
                     placeholder="Search for a team"
                     />
                     </div> 
