@@ -1,11 +1,12 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 import Fade from 'react-reveal/Fade';
 
 
 const generateBlocks =(blocks) => (
     blocks ?
     blocks.map(item => (
-        <Fade>
+        <Fade key={item.id} bottom duration={700}>
             <div className={`item ${item.type}`}>
               <div className="veil"></div>
               <div className="image"
@@ -13,10 +14,12 @@ const generateBlocks =(blocks) => (
                   background: `url(/images/blocks/${item.image})no-repeat`
               }}
               >
-                  
+
               </div>
 
-              
+              <div className="title">
+                  <Link to={item.Link}>{item.title}</Link>
+              </div>
 
             </div>
 

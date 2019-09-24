@@ -4,6 +4,7 @@ import SliderWidget from '../Utils/slider';
 import { URL_HOME } from '../Utils/paths';
 import Subscription from '../Utils/Subscript';
 import Blocks from './blocks';
+import Poll from './Poll';
 
  class Home extends Component {
     state={
@@ -24,6 +25,7 @@ import Blocks from './blocks';
              < SliderWidget slides={this.state.home.slider} />
              <Subscription />
              <Blocks blocks={this.state.home.blocks} />
+             <Poll />
             </div>
         );
     }
