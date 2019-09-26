@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(/images/covers/NBAimg.png)no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    min-height: 100%;
+
+}
+form{
+    padding: 20px;
+    margin-top:  60px;
+
+}
+form button, form h5{
+    margin: 20px 0;
+}
