@@ -6,6 +6,9 @@ import Subscription from '../Utils/Subscript';
 import Blocks from './blocks';
 import Poll from './Poll';
 
+
+
+
  class Home extends Component {
     state={
         home: ''
@@ -26,6 +29,9 @@ import Poll from './Poll';
              <Subscription />
              <Blocks blocks={this.state.home.blocks} />
              <Poll />
+           
+          
+        
             </div>
         );
     }

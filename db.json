@@ -105,28 +105,28 @@
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
-          "name": "Ron Howard",
+          "name": "Kevin Huerter",
           "number": 23,
           "PPG": 31.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Justin Cane",
+          "name": "Bruno Fernando",
           "number": 4,
           "PPG": 5.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Roberto Roboto",
+          "name": "Alex Len",
           "number": 21,
           "PPG": 1.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Nick Jones",
+          "name": "Chandler Parson",
           "number": 10,
           "PPG": 7.5,
           "APG": 5,
@@ -175,66 +175,66 @@
       "logo": "celtics.png",
       "poll": "false",
       "count": 0,
-      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "description": "The Boston Celtics are an American professional basketball team based in Boston, Massachusetts. The Celtics compete in the National Basketball Association (NBA) as a member of the league's Eastern Conference Atlantic Division. Founded in 1946 as one of the league's original eight teams, the team play their home games at TD Garden, which they share with the National Hockey League (NHL)'s Boston Bruins. The Celtics are one of the most successful teams in NBA history; the franchise has won the most championships in the NBA with 17, accounting for 23.9 percent of all NBA championships since the league's founding.",
       "squad": [
         {
-          "name": "Ron Howard",
+          "name": "Jaylen Brown",
           "number": 23,
           "PPG": 31.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Justin Cane",
+          "name": "Carsen Edwards",
           "number": 4,
           "PPG": 5.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Roberto Roboto",
+          "name": "Gordon Hayward",
           "number": 21,
           "PPG": 1.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Nick Jones",
+          "name": "Semi Ojeleye",
           "number": 10,
           "PPG": 7.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "James Cotton",
+          "name": "Romeo Langford",
           "number": 5,
           "PPG": 10,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Michael Jackson",
+          "name": "Daniel Theis",
           "number": 7,
           "PPG": 15,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "David Parser",
+          "name": "Kemba Walker",
           "number": 9,
           "PPG": 6.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Montgomery Burn",
+          "name": "Tremont Waters",
           "number": 12,
           "PPG": 0.5,
           "APG": 5,
           "RPG": 14
         },
         {
-          "name": "Usuain Osom",
+          "name": "Robert Williams",
           "number": 11,
           "PPG": 1,
           "APG": 5,
@@ -758,7 +758,7 @@
       "name": "Warriors",
       "logo": "warriors.png",
       "poll": "true",
-      "count": 2379,
+      "count": 2386,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -831,7 +831,7 @@
       "name": "Rockets",
       "logo": "rockets.png",
       "poll": "true",
-      "count": 2126,
+      "count": 2132,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {
@@ -1269,7 +1269,7 @@
       "name": "Bucks",
       "logo": "bucks.png",
       "poll": "true",
-      "count": 1815,
+      "count": 1819,
       "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
       "squad": [
         {

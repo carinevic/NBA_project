@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 import { URL_EMAIL} from "../Utils/paths";
+import { connect } from 'react-redux';
+
 
 class Subscription extends Component {
 
@@ -75,11 +77,13 @@ handleSubmit =(event) => {
 
     }
     render() {
+        const { email } = this.state;
         const state = this.state;
+       
         return (
             <>
     <div className="subcribe_panel">
-        <h3>Subscript to us</h3>
+        <h3>Subscript to vote </h3>
         <div>
             <form onSubmit={this.handleSubmit}>
                 <input type="text"
@@ -90,7 +94,7 @@ handleSubmit =(event) => {
                 <div className={state.error ? "error show": "error"}>check your email</div>
                 <div className={state.success ? "success show": "success"}>thanks you</div>
                 <div className={state.alreadyIn ? "success show": "success"}>your alreadu login</div>
-
+                     {email}
                
             </form>
         </div>
@@ -103,5 +107,10 @@ handleSubmit =(event) => {
         );
     }
 }
+const mapStateToProps = (state) => {
+    return{
+      
+    }
+}
 
-export default Subscription;
+export default connect(mapStateToProps)(Subscription);

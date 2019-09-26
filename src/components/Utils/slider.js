@@ -2,6 +2,7 @@ import React from 'react';
 import Slider from 'react-slick';
 
 
+
 const settings = {
     arrows: false,
     dots: false,
@@ -44,7 +45,7 @@ const SliderWidget = (props) => {
         <>
 
         {generateSlides(props.slides)}
-
+   
         </>
     );
 }
